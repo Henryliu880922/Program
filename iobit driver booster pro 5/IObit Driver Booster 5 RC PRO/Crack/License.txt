@@ -1,0 +1,16 @@
+安装方法:
+
+- 安装官方软件
+- 完全退出
+- 拷贝 "Config.ini" 到 Copy HERE 快捷方式指向的目录
+- 拷贝 "Register.dll" 到程序安装目录
+- 用提供的序列号注册
+- 完成
+
+
+----- License code of Driver Booster Pro -----
+
+License Status: Activated
+License Code: 2EC72-368A4-5E4E9-D54A1
+License Seats: 1
+Expiration Date: N/A
