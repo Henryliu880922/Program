@@ -14,3 +14,4 @@ License Status: Activated
 License Code: 2EC72-368A4-5E4E9-D54A1  
 License Seats: 1  
 Expiration Date: N/A  
+#### ※請將簡體中文改成繁體中文
